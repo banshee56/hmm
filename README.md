@@ -37,18 +37,18 @@ Some incorrect tags here: “to” is labeled det instead of preposition, and �
 
 ### Results of example-hmm:
 
-* # of tags correct: 43 
-* # of tags wrong: 1 
+* number of tags correct: 43 
+* number of tags wrong: 1 
 
 ### Results of simple: 
 
-* # of tags correct: 32 
-* # of tags wrong: 5 
+* number of tags correct: 32 
+* number of tags wrong: 5 
 
 ### Results of brown:
 
-* # of tags correct: 35109 
-* # of tags wrong: 1285 
+* number of tags correct: 35109 
+* number of tags wrong: 1285 
 
 ## Unseen Penalty (-10.0 vs -100.0) 
 
